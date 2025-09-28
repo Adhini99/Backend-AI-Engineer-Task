@@ -8,7 +8,7 @@ It provides an **AI-powered API service** that:
 - Returns results via a **FastAPI backend** with Swagger documentation.  
 
 🔗 **Live Swagger API**: [https://backend-ai-engineer-task.onrender.com/docs](https://backend-ai-engineer-task.onrender.com/docs)  
-
+🔗 **Project Explanation Video**: [Google Drive Link](https://drive.google.com/file/d/1pE0LeB86T89aWdqB5URVxBe6VU_aX2Oy/view?usp=sharing)  
 ---
 
 ## 🛠️ Tech Stack
