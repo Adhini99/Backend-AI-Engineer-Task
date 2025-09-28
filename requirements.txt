@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langchain-google-genai
+langchain_community
+langchain_core
+python-dotenv
+tavily-python
+sse_starlette
+google-generativeai
+
